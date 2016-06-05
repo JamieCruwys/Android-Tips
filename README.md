@@ -14,8 +14,6 @@ A list of Android Tips to improve your development workflow
 9. [Gradle](#Gradle)
 
 
----
-
 
 ## 1. <a name="ToolWindow">Tool window</a>
 
@@ -33,8 +31,6 @@ A list of Android Tips to improve your development workflow
 
 * CONTROL + R
 
-
----
 
 
 ## 2. <a name="GlobalNavigation">Global Navigation</a>
@@ -86,7 +82,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * CONTROL + TAB
 
 
----
 
 ## 3. <a name="EditingFiles">Editing Files</a>
 
@@ -173,7 +168,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * COMMAND + N
 
 
----
 
 ## 4. <a name="LocalNavigation">Local Navigation</a>
 
@@ -227,8 +221,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * CMD + F12
 
 
----
-
 
 ## 5. <a name="Refactoring">Refactoring</a>
 
@@ -269,8 +261,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * CONTROL + T
 
 
----
-
 
 ## 6. <a name="Bookmarks">Bookmarks</a>
 
@@ -291,8 +281,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * COMMAND + F3 (+ FN depending on preferences)
 * Then you can press the letter mnemonic e.g. `J`
 
-
----
 
 
 ## 7. <a name="Breakpoints">Breakpoints</a>
@@ -330,8 +318,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * F3
 
 
----
-
 
 ## 8. <a name="LiveTemplates">Live Templates</a>
 
@@ -341,7 +327,6 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 
 ### 8.2 Add a live template 
 
----
 
 
 ## 9. <a name="Gradle">Gradle</a>
@@ -355,7 +340,3 @@ These shortcuts will bring up fuzzy text search to navigate to the file or symbo
 * Create or open the `gradle.properties` file in `.gradle` in your `home directory`. e.g. `{HOME_DIRECTORY}/.gradle/gradle.properties`. 
 
 * Add the line `org.gradle.daemon=true` if it doesn't already exist
-
-
----
-
